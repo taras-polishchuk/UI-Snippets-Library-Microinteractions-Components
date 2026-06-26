@@ -30,9 +30,9 @@ Everything here is pure HTML/CSS/JS — which means it translates directly into 
 
 ---
 
-## My Shopify work
+## Production background — Shopify engineering
 
-I build and customize Shopify storefronts professionally — Liquid sections, OS 2.0 themes, UI improvements, bug fixes. This library reflects the frontend detail I bring to that work.
+This UI library was built during my Shopify engineering period. Production background: 5+ years across Shopify agency work and media-buying web engineering. Current focus: AI Automation Engineer — multi-agent systems, n8n workflow automation, and production AI hardening. This library reflects the frontend detail I bring to that work — reusable UI primitives, design-token-driven styling, accessibility-first patterns.
 
 → Full portfolio: [taras-polishchuk.github.io](https://taras-polishchuk.github.io)  
 → Contact: [poli.taras.shchuk@gmail.com](mailto:poli.taras.shchuk@gmail.com)
